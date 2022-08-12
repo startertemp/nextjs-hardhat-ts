@@ -7,9 +7,6 @@
     "type": "git",
     "url": "git+https://github.com/startertemp/nextjs-hardhat-ts.git"
   },
-  "publishConfig": {
-   "@startertemp:registry": "https://npm.pkg.github.com"
- },
   "keywords": [
     "template",
     "nextjs",
