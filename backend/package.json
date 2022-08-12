@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Solidity, Hardhat backend.",
+  "keywords": [
+    "contracts",
+    "hardhat",
+    "solidity"
+  ],
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}

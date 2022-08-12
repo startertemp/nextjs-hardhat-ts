@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Next JS Front-end Application",
+  "keywords": [
+    "frontend",
+    "nextjs",
+    "react"
+  ],
+  "author": {
+    "name": "Yanuka Deneth",
+    "email": "yanuka@asciix.com",
+    "url": "https://linktr.ee/yanukadeneth99"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanukadeneth99/startertemp-nextjs-hardhat-ts/issues"
+  },
+  "homepage": "https://github.com/yanukadeneth99/startertemp-nextjs-hardhat-ts#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
